@@ -1,4 +1,4 @@
-# fortran
+# FORTRAN
 
 This version of VICEtoPS was written in the [FORTRAN](https://secure.wikimedia.org/wikipedia/en/wiki/Fortran) programming language.
 

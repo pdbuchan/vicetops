@@ -1,4 +1,4 @@
-# python
+# Python
 
 This version of VICEtoPS was written in the [Python](https://en.wikipedia.org/wiki/Python_\(programming_language\)) programming language.
 

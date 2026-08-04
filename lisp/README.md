@@ -1,4 +1,4 @@
-# lisp
+# Common Lisp
 
 This version of VICEtoPS was written in the [ANSI Common Lisp](https://secure.wikimedia.org/wikipedia/en/wiki/Common_Lisp) programming language.
 
