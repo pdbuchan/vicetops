@@ -1,4 +1,4 @@
-#VICE Output to PostScript (VICEtoPS)
+# VICE Output to PostScript (VICEtoPS)
 
 **VICEtoPS** is a utility which will produce a simulated Commodore dot-matrix printout from the "print.dump" or "viceprnt.out" file obtained from the [VICE](https://vice-emu.sourceforge.io) emulator.
 
@@ -14,7 +14,8 @@ VICEtoPS should work with both viceprnt.out and print.dump files.
 
 ## Available Versions:
 
-|---|---|---|
+| Language | file |
+|---|---|
 | Visual Basic.NET | [`vicetops.vb`](vb/) |
 | Perl | [`vicetops.pl`](perl/) |
 | C | [`vicetops.c`](c/) |
