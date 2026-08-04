@@ -1,4 +1,4 @@
-# vb
+# Visual Basic (.NET)
 
 This version of VICEtoPS was written in the [Visual Basic (.NET)](https://en.wikipedia.org/wiki/Visual_Basic_\(.NET\)) programming language and has the advantage of incorporating an easy-to-use windows interface.
 
