@@ -1,6 +1,6 @@
-# FORTRAN
+# Fortran
 
-This version of VICEtoPS was written in the [FORTRAN](https://secure.wikimedia.org/wikipedia/en/wiki/Fortran) programming language.
+This version of VICEtoPS was written in the [Fortran](https://en.wikipedia.org/wiki/Fortran) programming language.
 
 ## Build
 

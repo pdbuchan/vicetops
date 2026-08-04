@@ -1,6 +1,6 @@
 # Perl
 
-This version of VICEtoPS was written in the [Perl](https://secure.wikimedia.org/wikipedia/en/wiki/Perl) programming language.
+This version of VICEtoPS was written in the [Perl](https://en.wikipedia.org/wiki/Perl) programming language.
 
 ## Usage
 

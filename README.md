@@ -19,7 +19,7 @@ VICEtoPS should work with both viceprnt.out and print.dump files.
 | Visual Basic (.NET) | [`vicetops.vb`](vb/) |
 | Perl | [`vicetops.pl`](perl/) |
 | C | [`vicetops.c`](c/) |
-| FORTRAN | [`vicetops.f`](fortran/) |
+| Fortran | [`vicetops.f`](fortran/) |
 | Common Lisp | [`vicetops.lisp`](lisp/) |
 | Python | [`vicetops.py`](python/) |
 

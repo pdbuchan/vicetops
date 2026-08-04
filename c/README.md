@@ -1,6 +1,6 @@
 # c
 
-This version of VICEtoPS was written in the [C](https://secure.wikimedia.org/wikipedia/en/wiki/C_language) programming language.
+This version of VICEtoPS was written in the [C](https://en.wikipedia.org/wiki/C_\(programming_language\)) programming language.
 
 ## Build
 

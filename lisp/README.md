@@ -1,6 +1,6 @@
 # Common Lisp
 
-This version of VICEtoPS was written in the [ANSI Common Lisp](https://secure.wikimedia.org/wikipedia/en/wiki/Common_Lisp) programming language.
+This version of VICEtoPS was written in the [ANSI Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp) programming language.
 
 ## Usage
 
