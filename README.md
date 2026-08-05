@@ -14,7 +14,7 @@ VICEtoPS should work with both viceprnt.out and print.dump files.
 
 ## Available Versions:
 
-| Language | file |
+| Language | File |
 |---|---|
 | Visual Basic (.NET) | [`vicetops.vb`](vb/) |
 | Perl | [`vicetops.pl`](perl/) |
