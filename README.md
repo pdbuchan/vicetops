@@ -33,4 +33,4 @@ Project links:
 
 The VICEtoPS source code is free software licensed under the **GNU General Public License, version 3 or any later version**.
 
-<p class="signature">P. David Buchan <a href="mailto:pdbuchan@yahoo.com">pdbuchan@yahoo.com</a></p>
+<p class="signature">P. David Buchan <a href="mailto:pdbuchan@gmail.com">pdbuchan@gmail.com</a></p>
