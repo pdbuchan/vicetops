@@ -1,0 +1,22 @@
+# Visual Studio user/workspace files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio build output
+bin/
+obj/
+publish/
+
+# Build/debug artifacts
+*.pdb
+*.cache
+*.log
+
+# Visual Studio profiling artifacts
+*.psess
+*.vsp
+*.vspx
+*.vspf
