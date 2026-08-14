@@ -1,15 +1,10 @@
-# VICEtoPS pre-built release
+# VICEtoPS prebuilt release
 
-This directory contains the pre-built Visual Basic .NET version of VICEtoPS.
-
-Keep these files together:
+The project targets .NET 10 Windows Forms and was built with Visual Studio Community 2026 on Microsoft Windows 11 Home 25H2 Build 26200.7171.
 
 ```text
 ViceToPS.exe
-ViceToPS.exe.config
 characters.390059-01.bin
 ```
 
-`ViceToPS.exe.config` identifies the .NET Framework runtime targeted by the application. The character ROM file is required by VICEtoPS at run time.
-
-To rebuild the executable from source, open `../ViceToPS.sln` in Visual Studio and build the Release configuration. The normal Visual Studio `bin/` and `obj/` directories are generated build output and are not stored in the repository.
+Keep the character ROM beside the executable.
